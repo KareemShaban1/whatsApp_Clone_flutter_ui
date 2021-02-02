@@ -2,7 +2,7 @@
 
 Building a WhatsApp Clone App in Flutter - Flutter UI  - Flutter Tutorial 
 
-## [Watch it on YouTube]( )
+## [Watch it on YouTube]( https://youtu.be/D4LjflPAHOU )
 
 ### Show some support and star the repo to support the project
 
